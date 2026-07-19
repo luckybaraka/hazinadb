@@ -1,0 +1,15 @@
+# Compiled binaries
+/bin/
+*.exe
+
+# Test & coverage output
+*.out
+coverage.*
+
+# Editor / OS noise
+.DS_Store
+
+# Future: on-disk data files produced by durable engines
+*.db
+*.log
+/data/
